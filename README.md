@@ -24,4 +24,4 @@ Currently based in Beirut and pursuing my Master's in Computer Science, with a d
 ### 🌌 The Engineering Philosophy
 I view software engineering the same way a prism handles light: taking raw, chaotic, massive data inputs and refracting them through precise logic engines to create brilliant, organized systems. When I'm not coding, you'll find me at the gym building discipline, or exploring the intersection of disruptive tech and classic rock.
 
-📫 **Let's Connect:** [Insert Your LinkedIn URL Here] | ✉️ [Insert Your Email Here]
+📫 **Let's Connect:** ✉️ [michaelelhajjcs@gmail.com]
